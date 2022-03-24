@@ -1,5 +1,6 @@
 # Hi! 👻
 ## I'm John, a Full-Stack Software Developer and Solutions Engineer.
+![](github-gif.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-reiner&show_icons=true&theme=dark)
 
 ### Frameworks, Platforms and Libraries
